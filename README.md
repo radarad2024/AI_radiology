@@ -1,2 +1,2 @@
-# Deep_learning_radiology
+# AI_radiology
 Blog 
